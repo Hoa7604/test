@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 add content issue53 - fix content in brach master
-=======
 add content issue53 - modified content file at branch issue53
->>>>>>> issue53
+
